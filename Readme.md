@@ -1,1 +1,1 @@
-Repo to create notes and exploration from Hugging face library course and other NLP explorations.
+My notes on NLP course by Hugging face. All of the notes, screenshots and text is taken from their [new course](https://huggingface.co/course/chapter1).
