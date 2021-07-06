@@ -17,3 +17,6 @@ My notes on NLP course by Hugging face. All of the notes, screenshots and text i
 - [Putting it all together](./10_UsingTransformers_PuttingIttogether.ipynb)
 
 ### Chapter 3: Fine-Tuning a pre-trained model
+ - [Processing the Data](./11_Processing_the_data.ipynb)
+ - [Fine Tuning with Trainer API](./12_FT_model_with_Trainer_API.ipynb)
+ - [Full Training](13_FullTraining.ipynb)
